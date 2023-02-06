@@ -19,6 +19,14 @@ body {
     box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
 }
 
+.in-english {
+    display: none;
+}
+
+.in-russian {
+    
+}
+
 /* about styles */
 .about {
     margin-top: 60px;
